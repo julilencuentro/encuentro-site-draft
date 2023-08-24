@@ -66,14 +66,26 @@ a:hover {
 }
 
 .section {
-  padding-top: 80px;
-  padding-bottom: 80px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 
   &-title {
-    margin-bottom: 80px;
+    margin-bottom: 10px;
     font-family: $secondary-font;
   }
 }
+
+.section-2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: $primary-color;
+
+  &-title {
+    margin-bottom: 10px;
+    font-family: $secondary-font;
+  }
+}
+
 
 .bg-cover {
   background-size: cover;
@@ -201,6 +213,14 @@ a:hover {
 /* icon */
 .icon {
   font-size: 45px;
+}
+
+.icon-lg {
+  font-size: 80px;
+}
+
+.icon-dark {
+  color: $black;
 }
 
 .icon-bg {

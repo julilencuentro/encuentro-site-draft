@@ -2,20 +2,21 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: 36 Encuentro Plurinacional <br>de Mujeres y Disidencias 
+
 logo:
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: 36encuentropluri.info@gmail.com
+#phone: +880 2544 658 256
+#address:  USA
+#copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  - { name: Que es, link: "/about" }
+  - { name: Actividades, link: "/actividades" }
+  - { name: Logistica, link: "/logistica" }
+  - { name: Contacto, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
@@ -36,22 +37,92 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: 36° Encuentro Plurinacional de Mujeres, Lesbianas, Travestis, Trans, Bisexuales, Intersexuales </br> y No Binaries
+  hero-subtitle: 14, 15 y 16 de  octubre 2023 - Bariloche / Furilofche
+  goto: ¿Qué es el encuentro?
+  gotourl: "/about"
 
-social:
+  social:
   - { icon: "ti-facebook", link: "#" }
   - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-dribbble", link: "#" }
   - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
+# Porque (Section and Page)
+porque-titulo: ¿Por qué acá?
+porque-contenido: La indignación colectiva del movimiento de mujeres y disidencias frente al violento desalojo de la comunidad Lafken Winkul Mapu en el cual fueron detenidas por causas excarcelables, mujeres mapuche junto a sus niñes, impulsó la elección de Bariloche como sede.<br><br>Esta situación y la de todas las mujeres indígenas en conflicto territorial será parte de la agenda de los feminismos durante los tres días del Encuentro.
+porque-link-text: Leer más
+porque-url: "/porque"
+
+#-------------------------------
+# Talleres y Actividades (Section and Page)
+actividades:
+  actividades-titulo: Talleres y Actividades
+  actividades-contenido: Debatimos nuestras prácticas <br>  El corazón de los encuentros son los talleres. Históricamente estos se conforman por las y les participantes del Encuentro, son democráticos, horizontales y pluralistas. Están organizados por ejes temáticos en los cuales se discute, comparte experiencias y se llega a consensos y conclusiones que quedan a disposición para cualquiera y como insumo para los siguientes Encuentros. 
+  actividades-talleres-icon: ti-comments
+  actividades-cronograma-icon: ti-calendar
+
+#-------------------------------
+# Logistica (Section and Page)
+logistica:
+  logistica-titulo: Alojamiento, Transporte e Información útil
+  logistica-contenido: Conocé las posibilidades de alojamiento, medios de transporte y ubicación de puntos importantes tales como hospitales, baños o lugares de ocio.
+  logistica-icon: ti-map-alt
+  logistica-url: /logistica
+  logistica-url-text: Saber más
+
+#-------------------------------
+# Varios Section
+
+varios-titulo: 
+varios:
+  - {
+      name: Inscripciones,
+      icon: ti-check-box,
+      description: "<br> <br> La inscripción no es obligatoria. Podés participar de todo sin restricciones. Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro.<br>",
+      bth-link: /actividades,
+      btn-name: "Formulario",
+      active: ,# Add true to select section
+    }
+  - {
+      name: Aportes,
+      icon: ti-money,
+      description: "Los encuentros son autónomos.No se aceptan contribuciones que impliquen condicionamientos. La construcción la hacemos entre todas y todes, si querés aportar podes hacerlo directamente a la cuenta de la comisión organizadora.",
+      bth-link: /actividades,
+      btn-name: "Ver más",
+      active: true, # Add true to select section
+    }
+  - {
+      name: Prensa,
+      icon: ti-id-badge,
+      description: "<br> <br> Si querés acreditarte para cubrir (realizar la cobertura periodística colaborativa) el 36° Encuentro, completá el formulario de acreditacion.",
+      bth-link: /actividades,
+      btn-name: "Formulario",
+      active: ,# Add true to select section
+    }
+
+#-------------------------------
+# Contact Section
+
+contact-title: Informacion de contacto
+contact-email: 36encuentropluri.info@gmail.com
+
+
+
+#-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+blurb:   ¿Por qué acá? <br> La indignación colectiva del movimiento de mujeres y disidencias frente al violento desalojo de la comunidad Lafken Winkul Mapu en el cual fueron detenidas por causas excarcelables, mujeres mapuche junto a sus niñes, impulsó la elección de Bariloche como sede del 36 Encuentro. 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: Leer más
+
+# About Section 2
+blurb2: Debatimos nuestras prácticas <br>  El corazón de los encuentros son los talleres. Históricamente estos se conforman por las y les participantes del Encuentro, son democráticos, horizontales y pluralistas. Están organizados por ejes temáticos en los cuales se discute, comparte experiencias y se llega a consensos y conclusiones que quedan a disposición para cualquiera y como insumo para los siguientes Encuentros. 
+
+blurb2-btn-link: "/about2"
+blurb2-btn-name: Conocé los talleres
 
 # About Page
 
@@ -146,24 +217,30 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Services
+services-title: 
 services:
   - {
-      name: UI Design,
-      icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      name: Actividades,
+      icon: ti-calendar,
+      description: "Conocé el dia, horario y ubicación de las actividades del 36 Encuentro: acreditaciones, apertura, talleres, marcha, fiestas, cierre, y ¡mucho más!",
+      bth-link: /actividades,
+      btn-name: "Ver más",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
-      icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      name: Alojamientos y transporte,
+      icon: ti-map-alt,
+      description: "Conocé las posibilidades de alojamiento, medios de transporte y ubicación de puntos importantes tales como hospitales, baños o lugares de ocio. <br>",
+      bth-link: /actividades,
+      btn-name: "Ver más",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
-      icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      name: Inscripciones,
+      icon: ti-check-box,
+      description: "La inscripción no es obligatoria. Podés participar de todo sin restricciones. Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro.",
+      bth-link: /actividades,
+      btn-name: "Ver más",
       active: ,# Add true to select section
     }
 

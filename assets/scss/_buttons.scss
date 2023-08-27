@@ -75,6 +75,24 @@
     box-shadow: none !important;
   }
 }
+.btn-secondary {
+  background: $secondary-color;
+  color: $white;
+
+  &:active {
+    background: lighten($color: $primary-color, $amount: 5) !important;
+  }
+
+  &:hover {
+    background: lighten($color: $primary-color, $amount: 10);
+  }
+
+  &.focus,
+  &.active {
+    background: lighten($color: $primary-color, $amount: 10) !important;
+    box-shadow: none !important;
+  }
+}
 
 
 .btn-transparent {

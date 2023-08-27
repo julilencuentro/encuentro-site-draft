@@ -1,13 +1,19 @@
 <!-- porque -->
 <section class="section">
   <div class="container">
-  <div class="row">
-     <div class="col-lg-10 mx-auto text-center">
-        <h3 class="text-dark font-tertiary">{{ site.data.settings.porque-titulo }}</h3>
-        <p class="text-dark font-tertiary">{{ site.data.settings.porque-contenido }}</p>
-        <a href="{{ site.data.settings.porque-url }}" class="btn btn-primary">{{ site.data.settings.porque-link-text }}</a>
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-left">
+          <h3 class="text-dark font-tertiary">{{ site.data.settings.porque-titulo }}</h3>
+          <p class="text-dark font-tertiary">{{ site.data.settings.porque-contenido }}</p>
+        </div>
       </div>
     </div>
+    <div class="row justify-content-center">
+        <div class="col-auto">
+          <a href="{{ site.data.settings.porque-button-url }}" class="btn btn-primary">{{ site.data.settings.porque-button-texto }}</a>
+        </div>
+    </div>
   </div>
+  
 </section>
 <!-- /porque -->

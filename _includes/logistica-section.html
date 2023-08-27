@@ -1,24 +1,26 @@
 <!-- talleres -->
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-1">
-        <i class="{{ site.data.settings.logistica.logistica-icon }} icon-lg icon-dark mb-8 d-inline-block"></i>        
+  {% if site.data.settings.logistica-sections %}
+  <!-- experience -->
+  <section class="section">
+    <div class="container">
+      <div class="row justify-content-around">
+        <div class="col-lg-12 text-center">
+          <h3 class="section-title">{{ site.data.settings.logistica.logistica-titulo }}</h2>
+        </div>
       </div>
-      <div class="col-lg-10 mx-auto text-center">
-        <h3 class="text-dark font-tertiary">{{ site.data.settings.logistica.logistica-titulo }}</h3>
+      <div class="col-lg-12 text-center mb-4">
       </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-10 mx-auto text-center">
-        <p class="text-dark font-tertiary">{{ site.data.settings.logistica.logistica-contenido }}</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-10 mx-auto text-center">
-        <a class="btn btn-primary btn-lg no-transform" href="{{ site.data.settings.logistica.logistica-url }}">{{ site.data.settings.logistica.logistica-url-text }}</a>
-      </div>
-  </div>
+      <div class="row justify-content-around">
 
-</section>
+        {% for log in site.data.settings.logistica-sections %}
+        <div class="col-lg-3 col-md-4 text-center">
+          <i class="{{ log.icon }} icon-lg icon-dark mb-8 d-inline-block"></i>        
+          <p class="text-dark font-tertiary">{{ log.descripcion }}</p>
+          <a class="btn btn-transparent btn-lg no-transform" href="{{ log.button-url }}">{{ log.button-texto }}</a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  {% endif %}
 <!-- /talleres -->

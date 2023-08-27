@@ -1,16 +1,16 @@
-{% if site.data.settings.services %}
+{% if site.data.settings.varios-sections %}
 <!-- varios -->
 <section class="section-2">
   <div class="container">
     <div class="row">
-      {% for misc in site.data.settings.varios %}
-      <div class="col-md-4 mb-4 mb-md-0">
+      {% for misc in site.data.settings.varios-sections %}
+      <div class="col-md-6 mb-4 mb-md-0">
         <div class="card hover-shadow shadow">
-          <div class="card-body {% if misc.active %}active-bg-primary{% endif %} text-center px-4 py-5">
+          <div class="card-body {% if misc.activo %}active-bg-primary{% endif %} text-center px-4 py-5">
             <i class="{{ misc.icon }} icon mb-5 d-inline-block"></i>
-            <h4 class="mb-4">{{ misc.name }}</h4>
-            <p>{{ misc.description }}</p>
-            <a href="{{ misc.btn-link }}" class="btn btn-secondary">{{ misc.btn-name }}</a>
+            <h4 class="mb-4">{{ misc.titulo }}</h4>
+            <p>{{ misc.descripcion }}</p>
+            <a href="{{ misc.button-url }}" class="btn btn-secondary">{{ misc.button-texto }}</a>
           </div>
         </div>
       </div>

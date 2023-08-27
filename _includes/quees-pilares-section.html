@@ -1,0 +1,20 @@
+{% if site.data.settings.quees-pilares-sections %}
+<!-- Work Process -->
+<section class="section">
+  <div class="container pilar">
+    <div class="row justify-content-around">
+      <div class="col-lg-12 text-left">
+        <h3 class="section-title">{{site.data.settings.quees-pilares-titulo}}</h3>
+      </div>
+      {% for pilar in site.data.settings.quees-pilares-sections %}
+      <div class="col-lg-4 col-md-2 text-dark hover-shadow pt-3 text-dark">
+        <img src="{{ pilar.icon | relative_url }}" class="mx-auto d-block " alt="icon">
+        <h4 class="mb-4 text-center">{{ pilar.titulo }}</h4>
+        <p class="text-left">{{ pilar.contenido | markdownify }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- ./Work Process -->
+{% endif %}

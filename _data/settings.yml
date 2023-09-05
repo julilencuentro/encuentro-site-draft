@@ -14,7 +14,8 @@ email: 36encuentropluri.info@gmail.com
 
 menu:
   - { name: Que es, link: "/quees" }
-  - { name: Actividades, link: "/actividades" }
+  - { name: Por que, link: "/porque" }
+  - { name: Actividades, link: "/talleres" }
   - { name: Logistica, link: "/logistica" }
   - { name: Contacto, link: "/contacto" }
 
@@ -69,21 +70,21 @@ logistica-sections:
       icon: ti-home,
       descripcion: "Conocé diversas opciones de alojamiento",
       button-texto: Ver más,
-      button-url: ,
+      button-url: /logistica#logistica_alojamiento,
     }
   - {
       titulo: Transporte,
       icon: ti-car,
       descripcion: "Medios de transporte disponibles en la ciudad",
       button-texto: Ver más,
-      button-url: ,
+      button-url: /logistica#logistica_transporte,
     }
   - {
       titulo: Mapa,
       icon: ti-map-alt,
       descripcion: "Hospitales, baños y lugares de ocio, entre otros",
       button-texto: Ver más,
-      button-url: ,
+      button-url: /logistica#logistica_mapa,
     }
 
 

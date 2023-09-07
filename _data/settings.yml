@@ -37,7 +37,7 @@ main:
   main-subtitulo: 14, 15 y 16 de  octubre 2023 - Bariloche / Furilofche
   main-button-texto: ¿Qué es?
   main-button-url: "/quees"
-  main-button-texto-2: Ver Cronograma
+  main-button-texto-2: Ver Cronograma de Actividades
   main-button-url-2: "/quees"
 
   social:

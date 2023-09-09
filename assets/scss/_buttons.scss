@@ -76,8 +76,8 @@
   }
 }
 .btn-secondary {
-  background: $secondary-color;
-  color: $white;
+  background: $third-color;
+  color: $primary-color;
 
   &:active {
     background: lighten($color: $primary-color, $amount: 5) !important;

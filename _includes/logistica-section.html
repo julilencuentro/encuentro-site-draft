@@ -1,22 +1,15 @@
 <!-- talleres -->
   {% if site.data.settings.logistica-sections %}
   <!-- experience -->
-  <section class="section">
+  <section class="section-3">
     <div class="container">
-      <div class="row justify-content-around">
-        <div class="col-lg-12 text-center">
-          <h3 class="section-title">{{ site.data.settings.logistica.logistica-titulo }}</h2>
-        </div>
-      </div>
-      <div class="col-lg-12 text-center mb-4">
-      </div>
       <div class="row justify-content-around">
 
         {% for log in site.data.settings.logistica-sections %}
         <div class="col-lg-3 col-md-4 text-center">
-          <i class="{{ log.icon }} icon-lg icon-dark mb-8 d-inline-block"></i>        
-          <p class="text-dark font-tertiary">{{ log.descripcion }}</p>
-          <a class="btn btn-transparent btn-lg no-transform" href="{{ site.baseurl }}{{ log.button-url }}">{{ log.button-texto }}</a>
+          <i class="{{ log.icon }} icon-lg icon-light mb-8 d-inline-block"></i>        
+          <p class="text-light font-tertiary mt-2">{{ log.descripcion }}</p>
+          <a class="btn btn-secondary btn-lg no-transform" href="{{ site.baseurl }}{{ log.button-url }}">{{ log.button-texto }}</a>
         </div>
         {% endfor %}
       </div>

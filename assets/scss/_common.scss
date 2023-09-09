@@ -66,6 +66,7 @@ a:hover {
 }
 
 .section {
+  background-color: $fourth-color;
   padding-top: $section-padding-top;
   padding-bottom: $section-padding-bottom;
 
@@ -76,6 +77,17 @@ a:hover {
 }
 
 .section-2 {
+  padding-top: $section-padding-top;
+  padding-bottom: $section-padding-bottom;
+  background-color: $secondary-color;
+
+  &-title {
+    margin-bottom: 10px;
+    font-family: $secondary-font;
+  }
+}
+
+.section-3 {
   padding-top: $section-padding-top;
   padding-bottom: $section-padding-bottom;
   background-color: $primary-color;
@@ -202,6 +214,11 @@ a:hover {
   font-family: $secondary-font !important;
 }
 
+.font-tertiary-bold {
+  font-family: $secondary-font !important;
+  color: $primary-color;
+}
+
 .shadow {
   box-shadow: 0px 18px 39.1px 6.9px rgba(224, 241, 255, 0.34) !important;
 }
@@ -213,6 +230,11 @@ a:hover {
 /* icon */
 .icon {
   font-size: 45px;
+}
+
+.icon-primary {
+  font-size: 45px;
+  color: $primary-color;
 }
 
 .icon-lg {
@@ -231,7 +253,7 @@ a:hover {
 }
 
 .icon-light {
-  color: #c8d5ef;
+  color: $fourth-color;
 }
 
 /* /icon */
@@ -283,12 +305,13 @@ textarea.form-control{
 
 /* card */
 .card{
-  border: 0;
+  border: 5;
+  border-color: $primary-color;
   &-header{
-    border: 0;
+    border: 5;
   }
   &-footer{
-    border: 0;
+    border: 5;
   }
 }
 /* /card */

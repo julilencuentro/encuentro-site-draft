@@ -34,11 +34,11 @@ google-analytics: # UA-XXXXXX-X
 # Main Section
 
 main:
-  main-titulo: 36° Encuentro Plurinacional de Mujeres, Lesbianas, Travestis, Trans, Bisexuales, Intersexuales </br> y No Binaries
-  main-subtitulo: 14, 15 y 16 de  octubre 2023 - Bariloche / Furilofche
-  main-button-texto: ¿Qué es el encuentro?
+  main-titulo: 36° Encuentro Plurinacional de Mujeres, Lesbianas, Travestis, Trans, Bisexuales, Intersexuales </br> y No Binaries </br> ___
+  main-subtitulo: 14, 15 y 16 de  octubre 2023 </br> Bariloche - Furilofche
+  main-button-texto: ¿QUÉ ES?
   main-button-url: "/quees"
-  main-button-texto-2: Ver Cronograma de Actividades
+  main-button-texto-2: VER CRONOGRAMA
   main-button-url-2: "/quees"
 
   social:
@@ -49,7 +49,7 @@ main:
 # Porque (Section and Page)
 porque-titulo: ¿Por qué acá?
 porque-contenido: La indignación colectiva del movimiento de mujeres y disidencias frente al violento desalojo de la comunidad Lafken Winkul Mapu en el cual fueron detenidas por causas excarcelables, mujeres mapuche junto a sus niñes, impulsó la elección de Bariloche como sede.<br><br>Esta situación y la de todas las mujeres indígenas en conflicto territorial será parte de la agenda de los feminismos durante los tres días del Encuentro.
-porque-button-texto: Leer más
+porque-button-texto: LEER MÁS
 porque-button-url: "/porque"
 
 #-------------------------------
@@ -57,7 +57,7 @@ porque-button-url: "/porque"
 actividades:
   actividades-titulo: Debatimos nuestras prácticas
   actividades-contenido: Debatimos nuestras prácticas <br>  El corazón de los encuentros son los talleres. Históricamente estos se conforman por las y les participantes del Encuentro, son democráticos, horizontales y pluralistas. Están organizados por ejes temáticos en los cuales se discute, comparte experiencias y se llega a consensos y conclusiones que quedan a disposición para cualquiera y como insumo para los siguientes Encuentros. 
-  actividades-button-texto: Conoce los talleres
+  actividades-button-texto: CONOCÉ LOS TALLERES
   actividades-button-url: "/talleres"
 
 #-------------------------------
@@ -68,7 +68,7 @@ logistica-sections:
   - {
       titulo: Alojamiento,
       icon: ti-home,
-      descripcion: "Conocé diversas opciones de alojamiento",
+      descripcion: "Conocé diversas opciones de alojamiento en la",
       button-texto: Ver más,
       button-url: /logistica#logistica_alojamiento,
     }
@@ -105,7 +105,7 @@ varios-sections:
   - {
       titulo: Aportes,
       icon: ti-money,
-      descripcion: "Los encuentros son autónomos. <br> No se aceptan contribuciones que impliquen condicionamientos. La construcción la hacemos entre todas y todes, si querés aportar podes hacerlo directamente a la cuenta de la comisión organizadora.",
+      descripcion: "Los encuentros son autónomos. No se aceptan contribuciones que impliquen condicionamientos. La construcción la hacemos entre todas y todes, si querés aportar podes hacerlo directamente a la cuenta de la comisión organizadora.",
       button-url: ,
       button-texto: "Ver más",
       activo: , # Add true to select section

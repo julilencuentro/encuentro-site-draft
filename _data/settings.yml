@@ -14,7 +14,8 @@ email: 36encuentropluri.info@gmail.com
 
 menu:
   - { name: Que es, link: "/quees" }
-  - { name: Actividades, link: "/actividades" }
+  - { name: Por que, link: "/porque" }
+  - { name: Actividades, link: "/talleres" }
   - { name: Logistica, link: "/logistica" }
   - { name: Contacto, link: "/contacto" }
 
@@ -35,7 +36,7 @@ google-analytics: # UA-XXXXXX-X
 main:
   main-titulo: 36° Encuentro Plurinacional de Mujeres, Lesbianas, Travestis, Trans, Bisexuales, Intersexuales </br> y No Binaries
   main-subtitulo: 14, 15 y 16 de  octubre 2023 - Bariloche / Furilofche
-  main-button-texto: ¿Qué es?
+  main-button-texto: ¿Qué es el encuentro?
   main-button-url: "/quees"
   main-button-texto-2: Ver Cronograma de Actividades
   main-button-url-2: "/quees"
@@ -49,7 +50,7 @@ main:
 porque-titulo: ¿Por qué acá?
 porque-contenido: La indignación colectiva del movimiento de mujeres y disidencias frente al violento desalojo de la comunidad Lafken Winkul Mapu en el cual fueron detenidas por causas excarcelables, mujeres mapuche junto a sus niñes, impulsó la elección de Bariloche como sede.<br><br>Esta situación y la de todas las mujeres indígenas en conflicto territorial será parte de la agenda de los feminismos durante los tres días del Encuentro.
 porque-button-texto: Leer más
-button-url: "/porque"
+porque-button-url: "/porque"
 
 #-------------------------------
 # Talleres y Actividades (Section and Page)
@@ -69,21 +70,21 @@ logistica-sections:
       icon: ti-home,
       descripcion: "Conocé diversas opciones de alojamiento",
       button-texto: Ver más,
-      button-url: ,
+      button-url: /logistica#logistica_alojamiento,
     }
   - {
       titulo: Transporte,
       icon: ti-car,
       descripcion: "Medios de transporte disponibles en la ciudad",
       button-texto: Ver más,
-      button-url: ,
+      button-url: /logistica#logistica_transporte,
     }
   - {
       titulo: Mapa,
       icon: ti-map-alt,
       descripcion: "Hospitales, baños y lugares de ocio, entre otros",
       button-texto: Ver más,
-      button-url: ,
+      button-url: /logistica#logistica_mapa,
     }
 
 
@@ -97,7 +98,7 @@ varios-sections:
       icon: ti-check-box,
       descripcion: "<br> 
       La inscripción no es obligatoria. Podés participar de todo sin restricciones. Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro.<br>",
-      button-url: /actividades,
+      button-url: https://forms.gle/Erphmr4xAuQVizqh9,
       button-texto: "Formulario",
       activo: ,# Add true to select section
     }
@@ -105,7 +106,7 @@ varios-sections:
       titulo: Aportes,
       icon: ti-money,
       descripcion: "Los encuentros son autónomos. <br> No se aceptan contribuciones que impliquen condicionamientos. La construcción la hacemos entre todas y todes, si querés aportar podes hacerlo directamente a la cuenta de la comisión organizadora.",
-      button-url: /actividades,
+      button-url: ,
       button-texto: "Ver más",
       activo: , # Add true to select section
     }

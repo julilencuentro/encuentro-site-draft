@@ -65,15 +65,21 @@ a:hover {
   outline: 0;
 }
 
-.section {
+.section-1 {
   background-color: $fourth-color;
   padding-top: $section-padding-top;
   padding-bottom: $section-padding-bottom;
+  position: relative;
 
   &-title {
     margin-bottom: 10px;
     font-family: $secondary-font;
   }
+  
+  background-image: url('../images/illustrations/porqueaca2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom right; /* Center the image */
 }
 
 .section-2 {
@@ -85,6 +91,12 @@ a:hover {
     margin-bottom: 10px;
     font-family: $secondary-font;
   }
+
+  background-image: url('../images/illustrations/debatimos2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom right; /* Center the image */
+
 }
 
 .section-3 {
@@ -96,6 +108,26 @@ a:hover {
     margin-bottom: 10px;
     font-family: $secondary-font;
   }
+
+  background-image: url('../images/illustrations/alojamientotransporte.png');
+  // background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top left; /* Center the image */
+
+
+}
+
+.section-4 {
+  background-color: $fourth-color;
+  padding-top: $section-padding-top;
+  padding-bottom: $section-padding-bottom;
+  position: relative;
+
+  &-title {
+    margin-bottom: 10px;
+    font-family: $secondary-font;
+  }
+  
 }
 
 
@@ -307,6 +339,7 @@ textarea.form-control{
 .card{
   border: 5;
   border-color: $primary-color;
+  background-color: $fourth-color;
   &-header{
     border: 5;
   }

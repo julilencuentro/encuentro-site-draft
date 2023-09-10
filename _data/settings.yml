@@ -4,7 +4,7 @@
 
 titulo: 36 Encuentro Plurinacional <br>de Mujeres y Disidencias 
 
-logo:
+logo: logo_sin_texto_header.png
 author: 36encuentropluri
 description: Pagina del 36 encuentro plurinaciones de mujeres y disidencias
 email: 36encuentropluri.info@gmail.com
@@ -56,7 +56,7 @@ porque-button-url: "/porque"
 # Talleres y Actividades (Section and Page)
 actividades:
   actividades-titulo: Debatimos nuestras prácticas
-  actividades-contenido: Debatimos nuestras prácticas <br>  El corazón de los encuentros son los talleres. Históricamente estos se conforman por las y les participantes del Encuentro, son democráticos, horizontales y pluralistas. Están organizados por ejes temáticos en los cuales se discute, comparte experiencias y se llega a consensos y conclusiones que quedan a disposición para cualquiera y como insumo para los siguientes Encuentros. 
+  actividades-contenido: El corazón de los encuentros son los talleres. Históricamente estos se conforman por las y les participantes del Encuentro, son democráticos, horizontales y pluralistas. Están organizados por ejes temáticos en los cuales se discute, comparte experiencias y se llega a consensos y conclusiones que quedan a disposición para cualquiera y como insumo para los siguientes Encuentros. 
   actividades-button-texto: CONOCÉ LOS TALLERES
   actividades-button-url: "/talleres"
 
@@ -67,21 +67,21 @@ logistica:
 logistica-sections:
   - {
       titulo: Alojamiento,
-      icon: ti-home,
-      descripcion: "Conocé diversas opciones de alojamiento en la",
+      icon: alojamiento.png,
+      descripcion: "Diversas opciones de alojamiento en la ciudad",
       button-texto: Ver más,
       button-url: /logistica#logistica_alojamiento,
     }
   - {
       titulo: Transporte,
-      icon: ti-car,
+      icon: transporte.png,
       descripcion: "Medios de transporte disponibles en la ciudad",
       button-texto: Ver más,
       button-url: /logistica#logistica_transporte,
     }
   - {
       titulo: Mapa,
-      icon: ti-map-alt,
+      icon: lugaresdeinteres.png,
       descripcion: "Hospitales, baños y lugares de ocio, entre otros",
       button-texto: Ver más,
       button-url: /logistica#logistica_mapa,
@@ -95,19 +95,19 @@ varios:
 varios-sections:
   - {
       titulo: Inscripciones,
-      icon: ti-check-box,
+      icon: inscripciones.png,
       descripcion: "<br> 
       La inscripción no es obligatoria. Podés participar de todo sin restricciones. Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro.<br>",
       button-url: https://forms.gle/Erphmr4xAuQVizqh9,
-      button-texto: "Formulario",
+      button-texto: "VER FORMULARIO",
       activo: ,# Add true to select section
     }
   - {
       titulo: Aportes,
-      icon: ti-money,
+      icon: aportes.png,
       descripcion: "Los encuentros son autónomos. No se aceptan contribuciones que impliquen condicionamientos. La construcción la hacemos entre todas y todes, si querés aportar podes hacerlo directamente a la cuenta de la comisión organizadora.",
       button-url: ,
-      button-texto: "Ver más",
+      button-texto: "VER MÁS",
       activo: , # Add true to select section
     }
   

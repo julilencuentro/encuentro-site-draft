@@ -1,16 +1,18 @@
 {% if site.data.settings.quees-pilares-sections %}
 <!-- Work Process -->
-<section class="section">
+<section class="section-light">
   <div class="container pilar">
-    <div class="row justify-content-around">
-      <div class="col-lg-12 text-left">
-        <h3 class="section-title">{{site.data.settings.quees-pilares-titulo}}</h3>
+    <div class="row ">
+      <div class="col-lg-5 text-primary font-weight-bold text-left ">
+        <h3 class="section-title text-primary font-weight-bold">{{site.data.settings.quees-pilares-titulo}}</h3>
       </div>
+    </div>
+    <div class="row">
       {% for pilar in site.data.settings.quees-pilares-sections %}
-      <div class="col-lg-4 col-md-2 text-dark hover-shadow pt-3 text-dark">
-        <img src="{{ pilar.icon | relative_url }}" class="mx-auto d-block " alt="icon">
-        <h4 class="mb-4 text-center">{{ pilar.titulo }}</h4>
-        <p class="text-left">{{ pilar.contenido | markdownify }}</p>
+      <div class="col-lg-4 col-ml-4 text-primary">
+        <img src="{{ site.baseurl }}{{pilar.icon}}" class="icon-pilar icon-light mb-8 d-inline-block"></img>       
+        <h4 class="mb-4 text-center text-primary">{{ pilar.titulo }}</h4>
+        <p class="text-primary justify-content-around">{{ pilar.contenido | markdownify }}</p>
       </div>
       {% endfor %}
     </div>

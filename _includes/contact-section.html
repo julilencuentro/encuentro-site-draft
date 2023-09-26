@@ -1,30 +1,34 @@
 <!-- contact -->
-<section class="section section-on-footer" data-background="{{site.baseurl}}/assets/images/backgrounds/bg-dots.png">
+<section class="section-5">
   <div class="container">
     <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">{{ site.data.settings.contact-title }}</h2>
+      <div class="col-12 text-left">
+        <h3 class="text-light font-weight-bold">{{ site.data.settings.contactos-titulo }}</h3>
+        <p class="text-light font-tertiary mt-4">____</p>
       </div>
-      <div class="col-lg-8 mx-auto">
-        <div class="bg-white rounded text-center p-5 shadow-down">
-          <h4 class="mb-80">Contact Form</h4>
-          <form action="https://formspree.io/{{ site.data.settings.contact-email }}" method="POST" class="row">
-            <div class="col-md-6">
-              <input type="text" id="name" name="name" placeholder="Full Name" class="form-control px-0 mb-4">
-            </div>
-            <div class="col-md-6">
-              <input type="email" id="email" name="_replyto" placeholder="Email Address" class="form-control px-0 mb-4">
-            </div>
-            <div class="col-12">
-              <textarea name="message" id="message" class="form-control px-0 mb-4"
-                placeholder="Type Message Here"></textarea>
-            </div>
-            <div class="col-lg-6 col-10 mx-auto">
-              <button type="submit" class="btn btn-primary w-100">send</button>
-            </div>
-          </form>
-        </div>
+    </div>
+
+    <div class="row align-items-end">
+      <div class="col-md-4 align-items-start">
+        {% for contact in site.data.settings.contactos-1 %}
+        <h4 class="text-light font-weight-bold font-tertiary">{{ contact.nombre }}</h4>
+        <p class="text-light font-tertiary">{{ contact.mail}}</p>
+        {% endfor %}
       </div>
+      <div class="col-md-4 align-items-start">
+        {% for contact in site.data.settings.contactos-2 %}
+        <h4 class="text-light font-weight-bold font-tertiary">{{ contact.nombre }}</h4>
+        <p class="text-light font-tertiary text-justify">{{ contact.mail}}</p>
+        {% endfor %}
+      </div>
+      <!-- social icon -->
+      <div class="col-md-4 align-items-end text-right">
+        {% for social in site.data.settings.main.social %}
+        <a class="text-light" href="{{ social.link }}"><i class="{{ social.icon }} icon"></i></a>
+        {% endfor %}
+      </div>
+  <!-- /social icon -->
+
     </div>
   </div>
 </section>

@@ -3,8 +3,10 @@
 <section class="section-4">
   <div class="container">
     <div class="row">
+      <div class="col-md-2"></div>
+
       {% for misc in site.data.settings.varios-sections %}
-      <div class="col-md-6 mb-4 mb-md-0">
+      <div class="col-md-4">
         <div class="card hover-shadow shadow">
           <div class="card-body {% if misc.activo %}active-bg-primary{% endif %} text-center px-4 py-5">
             <img src="{{ site.baseurl }}/assets/images/illustrations/{{ misc.icon }}" class="icon-primary mb-5 d-inline-block"></i>

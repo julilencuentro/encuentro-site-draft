@@ -99,7 +99,7 @@ varios-sections:
       descripcion: "<br> 
       La inscripción no es obligatoria. Podés participar de todo sin restricciones. Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro.<br>",
       button-url: https://forms.gle/Erphmr4xAuQVizqh9,
-      button-texto: "VER FORMULARIO",
+      button-texto: "VER MÁS",
       activo: ,# Add true to select section
     }
   - {
@@ -114,17 +114,69 @@ varios-sections:
 #-------------------------------
 # Contact Section
 
-contact-title: Informacion de contacto
-contact-email: 36encuentropluri.info@gmail.com
+contactos-titulo: Contactos
+contactos-1:
+  - {
+      nombre: Subcomisión de Accesibilidad,
+      mail: comision.accesibilidad.36@gmail.com
+    }
+  - {
+      nombre: Subcomisión de Articulación,
+      mail: articulación36encuentro@gmail.com
+    }
+  - {
+      nombre: Subcomisión de Cultura,
+      mail: 36encuentropluri.cultura@gmail.com
+    }
+  - {
+      nombre: Subcomisión de Talleres,
+      mail: 36encuentropluri.talleres@gmail.com
+    }
+  - {
+      nombre: Subcomisión de Prensa,
+      mail: 36encuentroplurinacional@gmail.com
+    }
+contactos-2:
+  - {
+      nombre: Subcomisión de Finanzas,
+      mail: 36encuentropluri.finanzas@gmail.com
+    }
+  - {
+      nombre: Subcomisión de Alojamiento,
+      mail: 36encuentropluri.alojamiento@gmail.com
+    }
+  - {
+      nombre: Subcomisión de Logistia,
+      mail: 36encuentropluri.logistica@gmail.com
+    }
+  - {
+      nombre: Subcomisión de Feria,
+      mail: 36encuentropluri.feria@gmail.com
+    }
+  - {
+      nombre: Subcomisión de Sustentabilidad,
+      mail: 36encuentropluri.sustentabilidad@gmail.com
+    }
+
+  
+  
+#-------------------------------
+# Prensa (Section and Page)
+prensa-titulo: Prensa Colaborativa
+prensa-contenido:  
+prensa-button-texto: FORMULARIO
+prensa-button-url: ""
+
+
 
 
 # Work Process Section
 quees-pilares:
-quees-pilares-titulo: "Su éxito y crecimiento se basa en  ocho pilares que los caracterizan:" 
+quees-pilares-titulo: "Su éxito y crecimiento se basa en seis pilares que los caracterizan:" 
 
 quees-pilares-sections:
   - titulo: "Autoconvocados"
-    icon: "assets/images/icons/plan.png"
+    icon: "assets/images/illustrations/autoconvocados.png"
     contenido: "Cada año, en el lugar elegido como sede,  se auto convocan todas y todes las y les  que lo deseen para conformar la  Comisión Organizadora, desde donde  participan a título individual. La comisión organizadora se ocupa de organizar el  encuentro y las decisiones se toman por consenso."
 
   - titulo: "Autónomos y autofinanciados"

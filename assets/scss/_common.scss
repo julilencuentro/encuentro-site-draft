@@ -109,8 +109,8 @@ a:hover {
     font-family: $secondary-font;
   }
 
-  background-image: url('../images/illustrations/alojamientotransporte.png');
-  // background-size: cover;
+  background-image: url('../images/illustrations/alojamientotransporte2.png');
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: top left; /* Center the image */
 
@@ -121,15 +121,60 @@ a:hover {
   background-color: $fourth-color;
   padding-top: $section-padding-top;
   padding-bottom: $section-padding-bottom;
-  position: relative;
 
   &-title {
     margin-bottom: 10px;
     font-family: $secondary-font;
   }
+  background-image: url('../images/illustrations/inscripciones_aportes2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top left; /* Center the image */
   
 }
 
+.section-5 {
+  background-color: $secondary-color;
+  padding-top: $section-padding-top;
+  padding-bottom: $section-padding-bottom;
+
+  &-title {
+    margin-bottom: 10px;
+    font-family: $secondary-font;
+  }
+  background-image: url('../images/illustrations/inscripciones_aportes2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top left; /* Center the image */
+  
+}
+
+.section-6 {
+  background-color: $primary-color;
+  padding-top: $section-padding-top;
+  padding-bottom: $section-padding-bottom;
+
+  &-title {
+    margin-bottom: 10px;
+    font-family: $secondary-font;
+  }
+  background-image: url('../images/illustrations/prensa2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top left; /* Center the image */
+  
+}
+
+.section-light {
+  background-color: $fourth-color;
+  padding-top: $section-padding-top;
+  padding-bottom: $section-padding-bottom;
+
+  &-title {
+    margin-bottom: 10px;
+    font-family: $secondary-font;
+  }  
+}
 
 .bg-cover {
   background-size: cover;
@@ -265,12 +310,18 @@ a:hover {
 }
 
 .icon-primary {
-  font-size: 45px;
+  font-size: 100px;
   color: $primary-color;
 }
 
 .icon-lg {
   font-size: 80px;
+}
+
+.icon-pilar {
+  color: $primary-color;
+  font-size: 200px;
+
 }
 
 .icon-dark {

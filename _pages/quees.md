@@ -9,7 +9,7 @@ En 1985 un grupo de mujeres argentinas participaron en la Clausura de la Década
 
 ### ¿Qué son los encuentros?
 Son espacios únicos en el  mundo. 
-Son masivos y reúnen a más de 100 mil mujeres y disidencias, quienes - sin importar nuestra condición o sector  social- nos autoconvocamos desde  diferentes lugares del país. 
+Son masivos y reúnen a más de 100 mil mujeres y disidencias, quienes - sin importar nuestra condición o sector  social- nos autoconvocamo|s desde  diferentes lugares del país. 
 
 En tres días, realizamos talleres,  actividades culturales, artísticas, marchas  e intervenciones en las cuales debatimos  las injusticias, problemáticas e  
 inquietudes que nos atraviesan a diario.  De la misma forma, encontramos espacios  y caminos para organizarnos. 

@@ -55,7 +55,7 @@ porque-button-url: "/porque"
 #-------------------------------
 # Talleres y Actividades (Section and Page)
 actividades:
-  actividades-titulo: Debatimos nuestras prácticas
+  actividades-titulo: Debatimos </br> nuestras prácticas
   actividades-contenido: El corazón de los encuentros son los talleres. Históricamente estos se conforman por las y les participantes del Encuentro, son democráticos, horizontales y pluralistas. Están organizados por ejes temáticos en los cuales se discute, comparte experiencias y se llega a consensos y conclusiones que quedan a disposición para cualquiera y como insumo para los siguientes Encuentros. 
   actividades-button-texto: CONOCÉ LOS TALLERES
   actividades-button-url: "/talleres"
@@ -96,8 +96,7 @@ varios-sections:
   - {
       titulo: Inscripciones,
       icon: inscripciones.png,
-      descripcion: "<br> 
-      La inscripción no es obligatoria. Podés participar de todo sin restricciones. Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro.<br>",
+      descripcion: "La inscripción no es obligatoria. <br/>Podés participar de todo sin restricciones. <br/>Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro.<br><br/>",
       button-url: https://forms.gle/Erphmr4xAuQVizqh9,
       button-texto: "VER MÁS",
       activo: ,# Add true to select section
@@ -176,25 +175,27 @@ quees-pilares-titulo: "Su éxito y crecimiento se basa en seis pilares que los c
 
 quees-pilares-sections:
   - titulo: "Autoconvocados"
-    icon: "assets/images/illustrations/autoconvocados.png"
+    icon: "purple_autoconvocados.png"
     contenido: "Cada año, en el lugar elegido como sede,  se auto convocan todas y todes las y les  que lo deseen para conformar la  Comisión Organizadora, desde donde  participan a título individual. La comisión organizadora se ocupa de organizar el  encuentro y las decisiones se toman por consenso."
 
   - titulo: "Autónomos y autofinanciados"
-    icon: "assets/images/icons/plan.png"
+    icon: "purple_autonomo.png"
     contenido: "La decisión de crear un espacio  independiente va de la mano de no  aceptar ninguna contribución económica  que implique condicionamientos. Nadie  por fuera de la comisión organizadora  puede influir y direccionar los Encuentros."
 
   - titulo: "Plurales"
-    icon: "assets/images/icons/plan.png"
+    icon: "purple_plurales.png"
     contenido: "Implica la multiplicación de participantes  que garantizan la abierta conformación  de las comisiones organizadoras en cada  lugar y a su vez la amplia participación  sin restricciones de las mujeres y  disidencias."
 
   - titulo: "Plurinacionales"
-    icon: "assets/images/icons/plan.png"
+    icon: "purple_plurinacionales.png"
     contenido: "En los encuentros participamos  identidades de distintos orígenes étnico  raciales, migrantes y de los pueblos  originarios."
   
+  - titulo: "Federales"
+    icon: "purple_federales.png"
+    contenido: "Se abren a su realización en todas las  provincias del interior del país. Amplía no  sólo la cantidad, sino también la calidad  de la participación de las mujeres y  disidencias a lo largo y ancho del  territorio nacional."
+
   - titulo: "Democráticos y horizontales"
-    icon: "assets/images/icons/plan.png"
+    icon: "purple_democraticos.png"
     contenido: "Todas y todes pueden hacer oír su voz.  No existen estructuras jerárquicas ni  referentes. Ninguna tiene la palabra por  encima de las otras. Los Encuentros no  emiten resoluciones, sino conclusiones  propias de cada taller de debate y no del  conjunto del encuentro."
 
-  - titulo: "Federales"
-    icon: "assets/images/icons/plan.png"
-    contenido: "Se abren a su realización en todas las  provincias del interior del país. Amplía no  sólo la cantidad, sino también la calidad  de la participación de las mujeres y  disidencias a lo largo y ancho del  territorio nacional."
+  

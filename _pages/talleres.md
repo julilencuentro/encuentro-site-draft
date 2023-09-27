@@ -1,6 +1,6 @@
 ---
 layout: talleres
-title: Debatimos Nuestras Practicas
+title: Debatimos <br/>nuestras prácticas
 ---
 ### Debatimos nuestras prácticas 
 
@@ -12,4 +12,3 @@ Nadie imparte conocimientos, por el contrario, cada taller tiene une o una facil
 
 Históricamente los talleres adoptan la modalidad del consenso para habilitar todas las expresiones, no se vota. Cuando termina el Encuentro la Comisión Organizadora publica las conclusiones de todos los talleres y son entregadas en el siguiente encuentro.
 
-⬇️[Descarga el listado de ejes y talles](/assets/docs/Grilla_de_talleres.pdf)

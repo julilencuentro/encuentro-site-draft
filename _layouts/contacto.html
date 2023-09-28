@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<!-- page title -->
+<section class="page-title-alt bg-primary position-relative">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1 class="text-white without-spacing">----</h1>
+        <h1 class="text-white font-weight-bold font-tertiary">{{ page.title }}</h1>
+      </div>
+    </div>
+  </div>
+  <!-- background shapes -->
+  <img src="{{ site.baseurl }}/assets/images/illustrations/prensa.png" alt="illustrations" class="bg-shape-1">
+</section>
+<section class="section-light font-primary">
+  <div class="container">
+    <div class="row align-items-end">
+      <div class="col-md-5 align-items-start">
+        {% for contact in site.data.settings.contactos-1 %}
+        <h4 class="text-primary font-weight-bold font-tertiary">{{ contact.nombre }}</h4>
+        <p class="text-primary font-tertiary">{{ contact.mail}}</p>
+        {% endfor %}
+      </div>
+      <div class="col-md-5 align-items-start">
+        {% for contact in site.data.settings.contactos-2 %}
+        <h4 class="text-primary font-weight-bold font-tertiary">{{ contact.nombre }}</h4>
+        <p class="text-primary font-tertiary text-justify">{{ contact.mail}}</p>
+        {% endfor %}
+      </div>
+      <!-- social icon -->
+      <div class="col-md-2 align-items-end text-right">
+        {% for social in site.data.settings.main.social %}
+        <a class="text-primary" href="{{ social.link }}"><i class="{{ social.icon }} icon"></i></a>
+        {% endfor %}
+      </div>
+      <!-- /social icon -->
+  
+    </div>
+    </div>
+</section>

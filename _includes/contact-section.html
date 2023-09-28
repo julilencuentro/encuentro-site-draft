@@ -1,35 +1,35 @@
 <!-- contact -->
 <section class="section-5">
-  <div class="container">
+  <div class="container text-light">
     <div class="row">
       <div class="col-12 text-left">
         <h3 class="text-light font-weight-bold">{{ site.data.settings.contactos-titulo }}</h3>
-        <p class="text-light font-tertiary mt-4">____</p>
+        <p class="text-light font-tertiary without-spacing ml-4">--------</p>
       </div>
     </div>
-
     <div class="row align-items-end">
-      <div class="col-md-4 align-items-start">
+      <div class="col-md-5 align-items-start">
         {% for contact in site.data.settings.contactos-1 %}
         <h4 class="text-light font-weight-bold font-tertiary">{{ contact.nombre }}</h4>
         <p class="text-light font-tertiary">{{ contact.mail}}</p>
         {% endfor %}
       </div>
-      <div class="col-md-4 align-items-start">
+      <div class="col-md-5 align-items-start">
         {% for contact in site.data.settings.contactos-2 %}
         <h4 class="text-light font-weight-bold font-tertiary">{{ contact.nombre }}</h4>
         <p class="text-light font-tertiary text-justify">{{ contact.mail}}</p>
         {% endfor %}
       </div>
       <!-- social icon -->
-      <div class="col-md-4 align-items-end text-right">
+      <div class="col-md-2 align-items-end text-right">
         {% for social in site.data.settings.main.social %}
         <a class="text-light" href="{{ social.link }}"><i class="{{ social.icon }} icon"></i></a>
         {% endfor %}
       </div>
-  <!-- /social icon -->
-
+      <!-- /social icon -->
+  
     </div>
+   
   </div>
 </section>
 <!-- /contact -->

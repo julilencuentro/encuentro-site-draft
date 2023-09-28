@@ -22,12 +22,13 @@ p, .paragraph {
 
 h1,h2,h3,h4,h5,h6 {
   color: $text-color-dark;
-  font-family: $secondary-font;
+  font-family: $primary-font;
   line-height: 1.2;
 }
 
 h1, .h1{
   font-size: 60px;
+  font-weight: bolder;
   @include desktop {
     font-size: 65px;
   }

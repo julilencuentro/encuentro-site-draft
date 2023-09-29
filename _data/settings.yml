@@ -13,10 +13,10 @@ email: 36encuentropluri.info@gmail.com
 #copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: Que es, link: "/quees" }
-  - { name: Por que, link: "/porque" }
+  - { name: Qué es, link: "/quees" }
+  - { name: Por qué, link: "/porque" }
   - { name: Actividades, link: "/talleres" }
-  - { name: Logistica, link: "/logistica" }
+  - { name: Logística, link: "/logistica" }
   - { name: Contacto, link: "/contacto" }
 
 #-------------------------------
@@ -96,7 +96,7 @@ varios-sections:
   - {
       titulo: Inscripciones,
       icon: inscripciones.png,
-      descripcion: "La inscripción no es obligatoria. <br/>Podés participar de todo sin restricciones. <br/>Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro.<br><br/>",
+      descripcion: "La inscripción no es obligatoria. <br/>Podés participar de todo sin restricciones. <br/>Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro. ¡Es muy valioso que te sumes a la inscripción!<br><br/>",
       button-url: https://forms.gle/Erphmr4xAuQVizqh9,
       button-texto: "VER MÁS",
       activo: ,# Add true to select section
@@ -104,7 +104,7 @@ varios-sections:
   - {
       titulo: Aportes,
       icon: aportes.png,
-      descripcion: "Los encuentros son autónomos. No se aceptan contribuciones que impliquen condicionamientos. La construcción la hacemos entre todas y todes, si querés aportar podes hacerlo directamente a la cuenta de la comisión organizadora.",
+      descripcion: "Los encuentros son autónomos y autofinanciados. No se aceptan contribuciones que impliquen condicionamientos. La construcción la hacemos entre todas y todes, si querés aportar podes hacerlo directamente a la cuenta de la comisión organizadora. ¡Gracias!",
       button-url: ,
       button-texto: "VER MÁS",
       activo: , # Add true to select section
@@ -162,7 +162,7 @@ contactos-2:
 #-------------------------------
 # Prensa (Section and Page)
 prensa-titulo: Prensa Colaborativa
-prensa-contenido:  
+prensa-contenido: Si querés acreditarte para realizar la cobertura periodística colaborativa del 36 encuentro, completá el formulario.  
 prensa-button-texto: FORMULARIO
 prensa-button-url: ""
 

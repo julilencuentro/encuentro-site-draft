@@ -13,10 +13,10 @@ email: 36encuentropluri.info@gmail.com
 #copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: Que es, link: "/quees" }
-  - { name: Por que, link: "/porque" }
+  - { name: Qué es, link: "/quees" }
+  - { name: Por qué, link: "/porque" }
   - { name: Actividades, link: "/talleres" }
-  - { name: Logistica, link: "/logistica" }
+  - { name: Logística, link: "/logistica" }
   - { name: Contacto, link: "/contacto" }
 
 #-------------------------------
@@ -47,16 +47,16 @@ main:
   
 #-------------------------------
 # Porque (Section and Page)
-porque-titulo: ¿Por qué acá?
-porque-contenido: La indignación colectiva del movimiento de mujeres y disidencias frente al violento desalojo de la comunidad Lafken Winkul Mapu en el cual fueron detenidas por causas excarcelables, mujeres mapuche junto a sus niñes, impulsó la elección de Bariloche como sede.<br><br>Esta situación y la de todas las mujeres indígenas en conflicto territorial será parte de la agenda de los feminismos durante los tres días del Encuentro.
+porque-titulo: ¿Por qué en Bariloche?
+porque-contenido: La indignación colectiva del movimiento de mujeres y disidencias frente al violento desalojo de la comunidad Lafken Winkul Mapu en el cual fueron detenidas por causas excarcelables, mujeres mapuche junto a sus niñes, impulsó la elección de Bariloche como sede.<br><br>Esta situación en particular y la de todas las mujeres indígenas en conflicto territorial será parte de la agenda de los feminismos durante los tres días del encuentro.
 porque-button-texto: LEER MÁS
 porque-button-url: "/porque"
 
 #-------------------------------
 # Talleres y Actividades (Section and Page)
 actividades:
-  actividades-titulo: Debatimos </br> nuestras prácticas
-  actividades-contenido: El corazón de los encuentros son los talleres. Históricamente estos se conforman por las y les participantes del Encuentro, son democráticos, horizontales y pluralistas. Están organizados por ejes temáticos en los cuales se discute, comparte experiencias y se llega a consensos y conclusiones que quedan a disposición para cualquiera y como insumo para los siguientes Encuentros. 
+  actividades-titulo: Talleres
+  actividades-contenido: Los talleres son el corazón de los encuentros. Históricamente se conforman por las y les participantes del Encuentro, son democráticos, horizontales y pluralistas. Todas y todes pueden sumarse, opinar y problematizar aquellas prácticas que nos resultan injustas y en las que nos vemos inmersas/es a diario. 
   actividades-button-texto: CONOCÉ LOS TALLERES
   actividades-button-url: "/talleres"
 
@@ -68,22 +68,22 @@ logistica-sections:
   - {
       titulo: Alojamiento,
       icon: alojamiento.png,
-      descripcion: "Diversas opciones de alojamiento en la ciudad",
-      button-texto: Ver más,
+      descripcion: "Diversas opciones de alojamiento en la ciudad.",
+      button-texto: Ver alojamientos,
       button-url: /logistica#logistica_alojamiento,
     }
   - {
       titulo: Transporte,
       icon: transporte.png,
-      descripcion: "Medios de transporte disponibles en la ciudad",
-      button-texto: Ver más,
+      descripcion: "Medios de transporte disponibles.",
+      button-texto: Ver transportes,
       button-url: /logistica#logistica_transporte,
     }
   - {
       titulo: Mapa,
       icon: lugaresdeinteres.png,
-      descripcion: "Hospitales, baños y lugares de ocio, entre otros",
-      button-texto: Ver más,
+      descripcion: "Hospitales, baños y otros puntos de interés.",
+      button-texto: Ver mapa,
       button-url: /logistica#logistica_mapa,
     }
 
@@ -96,7 +96,7 @@ varios-sections:
   - {
       titulo: Inscripciones,
       icon: inscripciones.png,
-      descripcion: "La inscripción no es obligatoria. <br/>Podés participar de todo sin restricciones. <br/>Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro.<br><br/>",
+      descripcion: "La inscripción no es obligatoria. <br/>Podés participar de todo sin restricciones. <br/>Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro. ¡Es muy valioso que te sumes a la inscripción!<br><br/>",
       button-url: https://forms.gle/Erphmr4xAuQVizqh9,
       button-texto: "VER MÁS",
       activo: ,# Add true to select section
@@ -104,7 +104,7 @@ varios-sections:
   - {
       titulo: Aportes,
       icon: aportes.png,
-      descripcion: "Los encuentros son autónomos. No se aceptan contribuciones que impliquen condicionamientos. La construcción la hacemos entre todas y todes, si querés aportar podes hacerlo directamente a la cuenta de la comisión organizadora.",
+      descripcion: "Los encuentros son autónomos y autofinanciados. No se aceptan contribuciones que impliquen condicionamientos. La construcción la hacemos entre todas y todes, si querés aportar podes hacerlo directamente a la cuenta de la comisión organizadora. ¡Gracias!",
       button-url: ,
       button-texto: "VER MÁS",
       activo: , # Add true to select section
@@ -162,7 +162,7 @@ contactos-2:
 #-------------------------------
 # Prensa (Section and Page)
 prensa-titulo: Prensa Colaborativa
-prensa-contenido:  
+prensa-contenido: Si querés acreditarte para realizar la cobertura periodística colaborativa del 36 encuentro, completá el formulario.  
 prensa-button-texto: FORMULARIO
 prensa-button-url: ""
 

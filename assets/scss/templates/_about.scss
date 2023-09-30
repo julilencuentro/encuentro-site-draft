@@ -22,7 +22,7 @@
     position: absolute;
     right: 0;
     bottom: 0;
-    height: 80%;
+    height: 60%;
   }
 
   .bg-shape-2{
@@ -30,6 +30,7 @@
     right: -70px;
     bottom: -70px;
     height: 100%;
+    z-index: -1;
   }
   .bg-shape-3{
     position: absolute;

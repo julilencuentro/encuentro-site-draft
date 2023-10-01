@@ -1,11 +1,12 @@
 ---
 layout: quees
-title: ¿Qué es?
+title: Los encuentros
 ---
-### HISTORIA BLA BLA BLA
+### HISTORIA
 
 En 1985 un grupo de mujeres argentinas participaron en la Clausura de la Década de la Mujer en 
 África. Volvieron al país con la necesidad de autoconvocarse para tratar las problemáticas específicas de las argentinas. Por eso en 1986 iniciaron los Encuentros y nunca pararon.
+
 
 ### ¿Qué son los encuentros?
 Son espacios únicos en el  mundo. 

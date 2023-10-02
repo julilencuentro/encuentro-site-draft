@@ -15,7 +15,7 @@ email: 36encuentropluri.info@gmail.com
 menu:
   - { name: Qué es, link: "/quees" }
   - { name: Por qué, link: "/porque" }
-  - { name: Actividades, link: "/talleres" }
+  - { name: Talleres, link: "/talleres" }
   - { name: Logística, link: "/logistica" }
   - { name: Contacto, link: "/contacto" }
 
@@ -57,7 +57,7 @@ porque-button-url: "/porque"
 actividades:
   actividades-titulo: Talleres
   actividades-contenido: Los talleres son el corazón de los encuentros. Históricamente se conforman por las y les participantes del Encuentro, son democráticos, horizontales y pluralistas. Todas y todes pueden sumarse, opinar y problematizar aquellas prácticas que nos resultan injustas y en las que nos vemos inmersas/es a diario. 
-  actividades-button-texto: CONOCÉ LOS TALLERES
+  actividades-button-texto: VER MÁS
   actividades-button-url: "/talleres"
 
 #-------------------------------
@@ -75,7 +75,7 @@ logistica-sections:
   - {
       titulo: Transporte,
       icon: transporte.png,
-      descripcion: "Medios de transporte disponibles.",
+      descripcion: "Medios de transporte disponibles.<br/>" ,
       button-texto: Ver transportes,
       button-url: /logistica#logistica_transporte,
     }
@@ -184,7 +184,7 @@ quees-pilares-sections:
 
   - titulo: "Plurales"
     icon: "purple_plurales.png"
-    contenido: "Implica la multiplicación de participantes  que garantizan la abierta conformación  de las comisiones organizadoras en cada  lugar y a su vez la amplia participación  sin restricciones de las mujeres y  disidencias."
+    contenido: "Implica la multiplicación de participantes  que garantizan la abierta conformación  de las comisiones organizadoras en cada  lugar y a su vez la amplia participación  sin restricciones de las mujeres, lesbianas, travestis, trans bisexuales, intersexuales, y no binaries."
 
   - titulo: "Plurinacionales"
     icon: "purple_plurinacionales.png"
@@ -192,10 +192,10 @@ quees-pilares-sections:
   
   - titulo: "Federales"
     icon: "purple_federales.png"
-    contenido: "Se abren a su realización en todas las  provincias del interior del país. Amplía no  sólo la cantidad, sino también la calidad  de la participación de las mujeres y  disidencias a lo largo y ancho del  territorio nacional."
+    contenido: "Se abren a su realización en todas las  provincias del país. Amplía no  sólo la cantidad, sino también la calidad  de la participación de las mujeres y  disidencias a lo largo y ancho del país."
 
   - titulo: "Democráticos y horizontales"
     icon: "purple_democraticos.png"
-    contenido: "Todas y todes pueden hacer oír su voz.  No existen estructuras jerárquicas ni  referentes. Ninguna tiene la palabra por  encima de las otras. Los Encuentros no  emiten resoluciones, sino conclusiones  propias de cada taller de debate y no del  conjunto del encuentro."
+    contenido: "Todas y todes pueden hacer oír su voz.  No existen estructuras jerárquicas ni referentes. Ningune tiene la palabra por encima de les otres. Los encuentros no emiten resoluciones, sino conclusiones propias de cada taller de debate y no del conjunto del encuentro."
 
   

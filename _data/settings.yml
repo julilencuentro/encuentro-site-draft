@@ -169,7 +169,7 @@ prensa-button-url: ""
 
 
 
-# Work Process Section
+# Que es Section
 quees-pilares:
 quees-pilares-titulo: "Su éxito y crecimiento se basa en seis pilares que los caracterizan:" 
 
@@ -198,4 +198,17 @@ quees-pilares-sections:
     icon: "purple_democraticos.png"
     contenido: "Todas y todes pueden hacer oír su voz.  No existen estructuras jerárquicas ni referentes. Ningune tiene la palabra por encima de les otres. Los encuentros no emiten resoluciones, sino conclusiones propias de cada taller de debate y no del conjunto del encuentro."
 
+quees-podcasts-titulo: Voces Encuentreras
   
+quees-podcasts:
+  - nombre: "Voces Encuentreras N°1"
+    file: "N1_VOCES_ENCUENTRERAS.mp3"
+
+  - nombre: "Voces Encuentreras N°2"
+    file: "N2_VOCES_ENCUENTRERAS.mp3"
+
+  - nombre: "Voces Encuentreras N°3"
+    file: "N3_VOCES_ENCUENTRERAS.mp3"
+
+  - nombre: "Voces Encuentreras N°4"
+    file: "N4_VOCES_ENCUENTRERAS.mp3"

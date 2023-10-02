@@ -15,7 +15,7 @@ email: 36encuentropluri.info@gmail.com
 menu:
   - { name: Qué es, link: "/quees" }
   - { name: Por qué, link: "/porque" }
-  - { name: Actividades, link: "/talleres" }
+  - { name: Talleres, link: "/talleres" }
   - { name: Logística, link: "/logistica" }
   - { name: Contacto, link: "/contacto" }
 

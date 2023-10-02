@@ -75,7 +75,7 @@ logistica-sections:
   - {
       titulo: Transporte,
       icon: transporte.png,
-      descripcion: "Medios de transporte disponibles." <br/>,
+      descripcion: "Medios de transporte disponibles.<br/>" ,
       button-texto: Ver transportes,
       button-url: /logistica#logistica_transporte,
     }

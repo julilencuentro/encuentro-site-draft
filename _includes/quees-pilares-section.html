@@ -9,10 +9,10 @@
     </div>
     <div class="row ml-5 mr-5 mt-5">
       {% for pilar in site.data.settings.quees-pilares-sections %}
-      <div class="col-lg-4 col-ml-4 text-primary">
+      <div class="col-lg-4 col-ml-4 mt-5 mb-2 text-primary">
         <div class="text-center"> 
           <img src="{{ site.baseurl }}/assets/images/illustrations/{{pilar.icon}}" class="img-fluid"></img>       
-          <h4 class="mb-4 text-center text-primary font-weight-bold">{{ pilar.titulo }}</h4>
+          <h5 class="mb-4 text-center text-primary font-weight-bold">{{ pilar.titulo }}</h5>
         </div>
         <p class="text-primary justify-content-around">{{ pilar.contenido | markdownify }}</p>
       </div>

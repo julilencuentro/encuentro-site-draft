@@ -7,8 +7,9 @@
 
         {% for log in site.data.settings.logistica-sections %}
         <div class="col-lg-3 col-md-4 text-center">
+          <h4 class="text-light mb-4 text-center">{{ log.titulo }}</h4>
           <img src="{{ site.baseurl }}/assets/images/illustrations/{{log.icon}}" class="icon-lg icon-light mb-8 d-inline-block"></img>       
-          <p class="text-light font-tertiary mt-2 ml-2 mr-2">{{ log.descripcion }}</p>
+          <p class="text-light font-tertiary mt-4 ml-2 mr-2">{{ log.descripcion }}</p>
           <a class="btn btn-secondary btn-lg no-transform" href="{{ site.baseurl }}{{ log.button-url }}">{{ log.button-texto }}</a>
         </div>
         {% endfor %}

@@ -69,21 +69,21 @@ logistica-sections:
       titulo: Alojamiento,
       icon: alojamiento.png,
       descripcion: "Diversas opciones de alojamiento en la ciudad.",
-      button-texto: Ver alojamientos,
+      button-texto: VER MÁS,
       button-url: /logistica#logistica_alojamiento,
     }
   - {
       titulo: Transporte,
       icon: transporte.png,
-      descripcion: "Medios de transporte disponibles.<br/>" ,
-      button-texto: Ver transportes,
+      descripcion: "Medios de transporte disponibles.<br/><br/>" ,
+      button-texto: VER MÁS,
       button-url: /logistica#logistica_transporte,
     }
   - {
       titulo: Mapa,
       icon: lugaresdeinteres.png,
       descripcion: "Hospitales, baños y otros puntos de interés.",
-      button-texto: Ver mapa,
+      button-texto: VER MÁS,
       button-url: /logistica#logistica_mapa,
     }
 
@@ -96,7 +96,7 @@ varios-sections:
   - {
       titulo: Inscripciones,
       icon: inscripciones.png,
-      descripcion: "La inscripción no es obligatoria. <br/>Podés participar de todo sin restricciones. <br/>Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro.<br/> ¡Es muy valioso que te sumes a la inscripción!<br><br/>",
+      descripcion: "La inscripción no es obligatoria. <br/>Podés participar de todo sin restricciones. <br/>Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro.<br/> ¡Es muy valioso que te sumes a la inscripción!<br/>",
       button-url: https://forms.gle/Erphmr4xAuQVizqh9,
       button-texto: "VER MÁS",
       activo: ,# Add true to select section

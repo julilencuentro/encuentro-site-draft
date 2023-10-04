@@ -23,7 +23,8 @@ En de octubre de 2022, en Bariloche, un violento operativo de desalojóo a la co
 
 La indignación colectiva ante las detenciones políticas de las mujeres mapuche, llevó a que el mandato de los dos Encuentros realizados en San Luis, tanto en Octubre como en Noviembre, definiera que la sede del Encuentro 2023 fuera Bariloche, planteando además la unidad del movimiento de mujeres y disidencias.
 
-
+<br/>
+<br/>
 ### Agenda feminista y plurinacional
 
 En el marco de la articulación territorial, La Comisión Organizadora del 36 Encuentro Plurinacional de Mujeres, Lesbianas, Travestis, Trans, Bisexuales, Intersexuales y No Binaries participó de un trawun (encuentro o parlamento) convocado por las presas políticas mapuche, y visitó a la Lof mapuche Inalef Coronado, ubicada la zona de Mallín Ahogado, entre otras acciones regionales. En ambas ocasiones, las mujeres y disidencias presentes manifestaron las situaciones críticas que están atravesando. 

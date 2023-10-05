@@ -4,7 +4,7 @@ title: ¿Por qué en Bariloche?
 ---
 <!-- Referencia Markdown https://www.markdownguide.org/tools/jekyll/ -->
 
-### Los pueblos originarios y los conflictos territoriales en la patagonia
+### Los pueblos originarios y los conflictos territoriales en la Patagonia
 
 El Estado argentino consolidó sus cimientos encaramado en el genocidio de los pueblos indígenas que habitaban el territorio. Tanto la configuración de subjetividades, como las conceptualizaciones en torno al espacio se ven permeadas por el racismo, el género y la marginación étnica, esto se representa hoy en prácticas concretas: discriminación, desalojos, acceso diferencial a la tierra y tratamiento desigual en los procesos judiciales.
 

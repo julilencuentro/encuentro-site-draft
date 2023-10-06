@@ -62,6 +62,10 @@
 #l9 {
   bottom: 250px;
   right: -10px;
+  @include mobile {
+    bottom: 0px;
+    height: 40%;
+  } 
 }
 
 .layer-bg {

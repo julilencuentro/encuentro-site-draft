@@ -48,7 +48,7 @@ main:
 #-------------------------------
 # Porque (Section and Page)
 porque-titulo: ¿Por qué en Bariloche?
-porque-contenido: La indignación colectiva del movimiento de mujeres y disidencias frente al violento desalojo de la comunidad Lafken Winkul Mapu en el cual fueron detenidas siete mujeres mapuche junto a sus niñes, por causas excarcelables, impulsó la elección de Bariloche como sede en los dos encuentros realizados en San Luis en 2022, el de octubre y el de noviembre.
+porque-contenido: La indignación colectiva del movimiento de mujeres y disidencias frente al violento desalojo de la comunidad Lafken Winkul Mapu en el cual fueron detenidas siete mujeres mapuche junto a sus niñes, por causas excarcelables, impulsó la elección de Bariloche como sede en los dos encuentros realizados en San Luis en 2022, el de octubre y el de noviembre.<br/><br/>Esta situación particular y la de todas las mujeres y disidencias indígenas, en conflicto territorial será parte de la agenda de los feminismos durante los tres días del Encuentro.
 porque-button-texto: LEER MÁS
 porque-button-url: "/porque"
 
@@ -56,7 +56,7 @@ porque-button-url: "/porque"
 # Talleres y Actividades (Section and Page)
 actividades:
   actividades-titulo: Talleres
-  actividades-contenido: Los talleres son el corazón de los encuentros. Históricamente se conforman por las y les participantes del Encuentro, son democráticos, horizontales y pluralistas. Todas y todes pueden sumarse, opinar y problematizar aquellas prácticas que nos resultan injustas y en las que nos vemos inmersas/es a diario. 
+  actividades-contenido: Los talleres son el corazón de los encuentros. Históricamente se conforman por las y les participantes del encuentro, son democráticos, horizontales y pluralistas. Todas y todes pueden sumarse, opinar y problematizar aquellas prácticas que nos resultan injustas y en las que nos vemos inmersas/es a diario. 
   actividades-button-texto: VER MÁS
   actividades-button-url: "/talleres"
 

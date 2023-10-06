@@ -24,6 +24,13 @@ En de octubre de 2022, en Bariloche, un violento operativo de desalojóo a la co
 La indignación colectiva ante las detenciones políticas de las mujeres mapuche, llevó a que el mandato de los dos Encuentros realizados en San Luis, tanto en Octubre como en Noviembre, definiera que la sede del Encuentro 2023 fuera Bariloche, planteando además la unidad del movimiento de mujeres y disidencias.
 
 <br/>
+
+<video height=360 controls class="embed-responsive embed-responsive-16by9">
+    <source src="{{ site.baseurl }}/assets/videos/4_de_Octubre_presas.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
 <br/>
 ### Agenda feminista y plurinacional
 

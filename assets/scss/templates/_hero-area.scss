@@ -5,11 +5,14 @@
     padding: 250px 0 150px;
     overflow: hidden;
   }
-  h1{
+  h1, h2, h3, h4 {
     position: relative;
-    z-index: 2;
+    z-index: 999;
   }
+
 }
+
+
 
 .layer {
   position: absolute;

@@ -42,8 +42,8 @@ main:
   main-button-url-2: "/quees"
 
   social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
+  - { icon: "ti-facebook", link: "https://www.facebook.com/p/36-Encuentro-Plurinacional-de-mujeres-y-disidencias-2023-100088135622331/" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/36encpluri.mujeresydisidencias/?hl=es-la" }
   
 #-------------------------------
 # Porque (Section and Page)
@@ -234,6 +234,7 @@ quees-pilares-sections:
     contenido: "Todas y todes pueden hacer oír su voz.  No existen estructuras jerárquicas ni referentes. Ningune tiene la palabra por encima de les otres. Los encuentros no emiten resoluciones, sino conclusiones propias de cada taller de debate y no del conjunto del encuentro."
 
 quees-podcasts-titulo: Voces Encuentreras
+quees-podcasts-descripcion: Un podcast del 36 Encuentro Plurinacional de Mujeres, Lesbianas, Travestis, Trans, Bisexuales, Intersexuales y No Binaries.
   
 quees-podcasts:
   - nombre: "Voces Encuentreras N°1"

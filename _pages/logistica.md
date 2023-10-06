@@ -15,17 +15,7 @@ En este grupo de Facebook personas de Bariloche o alrededores publican cabañas,
 ### ![Imagen Casa]({{ site.baseurl }}/assets/images/illustrations/purple_alojamiento_privado.png)Alojamiento Privado 
 También podés encontrar alojamientos privados en las siguientes páginas:
 
-[Bariloche turismo](https://barilocheturismo.gob.ar/es/buscar-hotel)
-
-[Bariloche.org](https://bariloche.org/directorio/categorias/alojamiento-en-bariloche)
-
-[Mercado Libre](https://listado.mercadolibre.com.ar/alojamiento-en-bariloche)
-
-[Google](https://www.google.com.ar/travel/search?qs=CAE4BA&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAEaOAoaEhgKCy9nLzEyMHF3YjZnOglCYXJpbG9jaGUSGhIUCgcI5w8QChgZEgcI5w8QChgaGAEyAhAAKgcKBToDQVJT&sa=X&ap=MAE&ved=0CAAQ5JsGahcKEwiYsPLwsdaBAxUAAAAAHQAAAAAQCw)
-
-[Airbnb](https://www.airbnb.com.ar/s/Bariloche/homes?adults=2)
-
-[Despegar](https://www.despegar.com.ar/hoteles/hl/901/i1/hoteles-en-san+carlos+de+bariloche)
+{% include alojamientos.html %}
 
 <br>
 
@@ -35,10 +25,7 @@ El sistema de transporte urbano de la ciudad se llama MiBus (Bariloche-Furilofch
 El recorrido de Dina Huapi a Bariloche se realiza con la empresa "Las Grutas". 
 Encontrá las líneas, horarios y recorridos de los colectivos:
 
-[Mi Bus](https://mibus.com.ar/bariloche/)
-
-[Línea 33 empresa “Las Grutas”](https://www.municipiodinahuapi.gob.ar/?q=content/horario-l%C3%ADnea-33)
-
+{% include transportes.html %}
 
 <br>
 

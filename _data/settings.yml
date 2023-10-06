@@ -87,6 +87,41 @@ logistica-sections:
       button-url: /logistica#logistica_mapa,
     }
 
+logistica-alojamientos-privados:
+  - {
+      nombre: Bariloche turismo,
+      url: "https://barilocheturismo.gob.ar/es/buscar-hotel",
+    }
+  - {
+      nombre: Bariloche.org,
+      url: "https://bariloche.org/directorio/categorias/alojamiento-en-bariloche",
+    }
+  - {
+      nombre: Mercado Libre,
+      url: "https://listado.mercadolibre.com.ar/alojamiento-en-bariloche",
+    }
+  - {
+      nombre: Google,
+      url: "https://www.google.com.ar/travel/search?qs=CAE4BA&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAEaOAoaEhgKCy9nLzEyMHF3YjZnOglCYXJpbG9jaGUSGhIUCgcI5w8QChgZEgcI5w8QChgaGAEyAhAAKgcKBToDQVJT&sa=X&ap=MAE&ved=0CAAQ5JsGahcKEwiYsPLwsdaBAxUAAAAAHQAAAAAQCw",
+    }
+  - {
+      nombre: Airbnb,
+      url: "https://www.airbnb.com.ar/s/Bariloche/homes?adults=2",
+    }
+  - {
+      nombre: Despegar,
+      url: "https://www.despegar.com.ar/hoteles/hl/901/i1/hoteles-en-san+carlos+de+bariloche",
+    }
+
+logistica-transportes:
+  - {
+      nombre: Mi Bus,
+      url: "https://mibus.com.ar/bariloche/",
+    }
+  - {
+      nombre: Línea 33 empresa “Las Grutas”,
+      url: "https://www.municipiodinahuapi.gob.ar/?q=content/horario-l%C3%ADnea-33",
+    }
 
 #-------------------------------
 # Varios Section

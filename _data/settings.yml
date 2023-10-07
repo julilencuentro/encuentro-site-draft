@@ -43,13 +43,13 @@ main:
   main-button-url-2: "/cronograma"
 
   social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
+  - { icon: "ti-facebook", link: "https://www.facebook.com/p/36-Encuentro-Plurinacional-de-mujeres-y-disidencias-2023-100088135622331/" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/36encpluri.mujeresydisidencias/?hl=es-la" }
   
 #-------------------------------
 # Porque (Section and Page)
 porque-titulo: ¿Por qué en Bariloche?
-porque-contenido: La indignación colectiva del movimiento de mujeres y disidencias frente al violento desalojo de la comunidad Lafken Winkul Mapu en el cual fueron detenidas por causas excarcelables, mujeres mapuche junto a sus niñes, impulsó la elección de Bariloche como sede.<br><br>Esta situación en particular y la de todas las mujeres indígenas en conflicto territorial será parte de la agenda de los feminismos durante los tres días del encuentro.
+porque-contenido: La indignación colectiva del movimiento de mujeres y disidencias frente al violento desalojo de la comunidad Lafken Winkul Mapu en el cual fueron detenidas siete mujeres mapuche junto a sus niñes, por causas excarcelables, impulsó la elección de Bariloche como sede en los dos encuentros realizados en San Luis en 2022, el de octubre y el de noviembre.<br/><br/>Esta situación particular y la de todas las mujeres y disidencias indígenas, en conflicto territorial será parte de la agenda de los feminismos durante los tres días del Encuentro.
 porque-button-texto: LEER MÁS
 porque-button-url: "/porque"
 
@@ -57,7 +57,7 @@ porque-button-url: "/porque"
 # Talleres y Actividades (Section and Page)
 actividades:
   actividades-titulo: Talleres
-  actividades-contenido: Los talleres son el corazón de los encuentros. Históricamente se conforman por las y les participantes del Encuentro, son democráticos, horizontales y pluralistas. Todas y todes pueden sumarse, opinar y problematizar aquellas prácticas que nos resultan injustas y en las que nos vemos inmersas/es a diario. 
+  actividades-contenido: Los talleres son el corazón de los encuentros. Históricamente se conforman por las y les participantes del encuentro, son democráticos, horizontales y pluralistas. Todas y todes pueden sumarse, opinar y problematizar aquellas prácticas que nos resultan injustas y en las que nos vemos inmersas/es a diario. 
   actividades-button-texto: VER MÁS
   actividades-button-url: "/talleres"
 
@@ -132,7 +132,7 @@ varios-sections:
   - {
       titulo: Inscripciones,
       icon: inscripciones.png,
-      descripcion: "La inscripción no es obligatoria. <br/>Podés participar de todo sin restricciones. <br/>Sin embargo, tu aportes económico sirve para garantizar la realización de este encuentro.<br/> ¡Es muy valioso que te sumes a la inscripción!<br/>",
+      descripcion: "La inscripción no es obligatoria. <br/>Podés participar de todo sin restricciones. <br/>Sin embargo, tu aporte económico sirve para garantizar la realización de este encuentro.<br/> ¡Es muy valioso que te sumes a la inscripción!<br/>",
       button-url: https://forms.gle/Erphmr4xAuQVizqh9,
       button-texto: "VER MÁS",
       activo: ,# Add true to select section
@@ -207,7 +207,7 @@ prensa-button-url: "https://forms.gle/L9i1YU6BwC93dcKZ7"
 
 # Que es Section
 quees-pilares:
-quees-pilares-titulo: "Su éxito y crecimiento se basa en seis pilares que los caracterizan:" 
+quees-pilares-titulo: "Su éxito y crecimiento se basa en los siguientes pilares que los caracterizan:" 
 
 quees-pilares-sections:
   - titulo: "Autoconvocados"
@@ -235,6 +235,7 @@ quees-pilares-sections:
     contenido: "Todas y todes pueden hacer oír su voz.  No existen estructuras jerárquicas ni referentes. Ningune tiene la palabra por encima de les otres. Los encuentros no emiten resoluciones, sino conclusiones propias de cada taller de debate y no del conjunto del encuentro."
 
 quees-podcasts-titulo: Voces Encuentreras
+quees-podcasts-descripcion: Un podcast del 36 Encuentro Plurinacional de Mujeres, Lesbianas, Travestis, Trans, Bisexuales, Intersexuales y No Binaries.
   
 quees-podcasts:
   - nombre: "Voces Encuentreras N°1"

@@ -25,8 +25,8 @@ layout: default
       </div>
       <div class="col-md-1"></div>
       <div class="col-md-5 mt-5">
-        <video controls class="embed-responsive embed-responsive-16by9">
-          <source src="{{ site.baseurl }}/assets/videos/quees-video.mp4" type="video/mp4">
+        <video height=500 controls class="embed-responsive embed-responsive-16by9">
+          <source src="{{ site.baseurl }}/assets/videos/REEL_que_es_el_encuentro.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
       </div>
@@ -38,19 +38,16 @@ layout: default
 <!-- /about -->
 {% include quees-pilares-section.html %}
 
-
 <section class="section-light position-relative">
   <div class="container">
     <div class="row">
-      <div class="col-lg-12 text-center">
+      <div class="col-lg-12 text-center mb-4">
         <h3 class="text-primary text-left">{{ site.data.settings.quees-podcasts-titulo }}</h3>
+        <p class="text-left">{{ site.data.settings.quees-podcasts-descripcion}}</p>
       </div>
       {% for podcast in site.data.settings.quees-podcasts %}
       <div class="col-lg-6 col-md-6 mb-80">
         <div class="d-flex">
-          <!-- <div class="mr-lg-5 mr-3">
-            <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
-          </div> -->
           <div>
             <h5 class="text-black font-tertiary">{{podcast.nombre}}</h5>
             <audio controls>
@@ -64,34 +61,3 @@ layout: default
     </div>
   </div>
 </section>
-
-<!-- <div class="container">
-  <div class="row">
-    <div class="col-6">
-      <h3 class="text-primary font-weight-bold font-tertiary">Voces Encuentreras</h3>
-      {% for podcast in site.data.settings.quees-podcasts %}
-      <h5 class="text-black font-tertiary">{{podcast.nombre}}</h5>
-      <audio controls>
-        <source src="{{ site.baseurl }}/assets/audio/{{podcast.file}}" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio> 
-      <div class="col-lg-6 col-md-6 mb-80">
-        <div class="d-flex">
-          <div class="mr-lg-5 mr-3">
-            <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
-          </div>
-          <div>
-            <h4>{{ podcast.nombre }}</h4>
-            <audio controls>
-              <source src="{{ site.baseurl }}/assets/audio/{{podcast.file}}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-          </div>
-        </div>
-      </div>
-
-      {% endfor %}    
-    </div>
-  </div>
-</div> -->
-

@@ -4,11 +4,11 @@ title: ¿Por qué en Bariloche?
 ---
 <!-- Referencia Markdown https://www.markdownguide.org/tools/jekyll/ -->
 
-### Los pueblos originarios y los conflictos territoriales en la patagonia
+### Los pueblos originarios y los conflictos territoriales en la Patagonia
 
 El Estado argentino consolidó sus cimientos encaramado en el genocidio de los pueblos indígenas que habitaban el territorio. Tanto la configuración de subjetividades, como las conceptualizaciones en torno al espacio se ven permeadas por el racismo, el género y la marginación étnica, esto se representa hoy en prácticas concretas: discriminación, desalojos, acceso diferencial a la tierra y tratamiento desigual en los procesos judiciales.
 
-En de octubre de 2022, en Bariloche, un violento operativo de desalojóo a la comunidad Lafken Winkul Mapu de Villa Mascardi que llevó adelante el Comando Unificado de Fuerzas Federales de Seguridad, se llevó detenidas a siete mujeres y niñes mapuche, sólo por el hecho de defender su territorio. Estuvieron privadas de su libertad, por una causa excarcelable hasta el 9 de junio de 2023, fecha en la cual, tras la intervención de la Mesa de Diálogo por dicho conflicto se llegó a un acuerdo conciliatorio ante la justicia, en el que se reconoce el rewe (espacio ceremonial) como sitio sagrado de dicha comunidad y se aspira a que se elimine la acción penal, siempre y cuando se cumpla el acuerdo.
+En de octubre de 2022, en Bariloche, un violento operativo de desalojo a la comunidad Lafken Winkul Mapu de Villa Mascardi que llevó adelante el Comando Unificado de Fuerzas Federales de Seguridad, se llevó detenidas a siete mujeres y niñes mapuche, sólo por el hecho de defender su territorio. Estuvieron privadas de su libertad, por una causa excarcelable hasta el 9 de junio de 2023, fecha en la cual, tras la intervención de la Mesa de Diálogo por dicho conflicto se llegó a un acuerdo conciliatorio ante la justicia, en el que se reconoce el rewe (espacio ceremonial) como sitio sagrado de dicha comunidad y se aspira a que se elimine la acción penal, siempre y cuando se cumpla el acuerdo.
 
 <!-- Pueden usarse la mayoria de los emojis https://emojipedia.org/ -->
 📣 A un año del desalojo las mujeres mapuche todavía exigen:
@@ -24,6 +24,13 @@ En de octubre de 2022, en Bariloche, un violento operativo de desalojóo a la co
 La indignación colectiva ante las detenciones políticas de las mujeres mapuche, llevó a que el mandato de los dos Encuentros realizados en San Luis, tanto en Octubre como en Noviembre, definiera que la sede del Encuentro 2023 fuera Bariloche, planteando además la unidad del movimiento de mujeres y disidencias.
 
 <br/>
+
+<video height=360 controls class="embed-responsive embed-responsive-16by9">
+    <source src="{{ site.baseurl }}/assets/videos/4_de_Octubre_presas.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
 <br/>
 ### Agenda feminista y plurinacional
 

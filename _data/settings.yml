@@ -15,6 +15,7 @@ email: 36encuentropluri.info@gmail.com
 menu:
   - { name: Qué es, link: "/quees" }
   - { name: Por qué, link: "/porque" }
+  - { name: Cronograma, link: "/cronograma" }
   - { name: Talleres, link: "/talleres" }
   - { name: Logística, link: "/logistica" }
   - { name: Contacto, link: "/contacto" }
@@ -39,7 +40,7 @@ main:
   main-button-texto: ¿QUÉ ES?
   main-button-url: "/quees"
   main-button-texto-2: VER CRONOGRAMA
-  main-button-url-2: "/quees"
+  main-button-url-2: "/cronograma"
 
   social:
   - { icon: "ti-facebook", link: "#" }

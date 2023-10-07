@@ -7,11 +7,11 @@
     <div class="col-lg-4 ml-2">
         <ul>
             {% for item in list limit:halfSize %}
-            <li class="text-primary mt-4"><a  href="{{ item.url }}">{{ item.nombre }}</a></li>
+            <li class="mt-4"><a  href="{{ item.url }}">{{ item.nombre }}</a></li>
             {% endfor %}
         </ul>
     </div>
-    <div class="col-lg-4 mr-2">
+    <div class="col-lg-4 ml-2">
         <ul>
             {% for item in list offset:halfSizePlusOne %}
             <li class="mt-4"><a href="{{ item.url }}">{{ item.nombre }}</a></li>

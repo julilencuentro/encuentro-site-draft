@@ -1,6 +1,6 @@
 ---
 layout: cronograma
-title: Actividades
+title: Cronograma
 ---
 ### Cronograma de actividades 
 

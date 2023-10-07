@@ -11,13 +11,18 @@
       <div class="col-md-5 align-items-start">
         {% for contact in site.data.settings.contactos-1 %}
         <h4 class="text-light mt-4 font-weight-bold font-tertiary">{{ contact.nombre }}</h4>
-        <p class="text-light font-tertiary">{{ contact.mail}}</p>
+        <p class="text-light font-tertiary text-justify">
+          <a class="text-light font-tertiary" href="mailto:{{ contact.mail}}">{{ contact.mail}}</a>
+        </p>
         {% endfor %}
       </div>
       <div class="col-md-5 align-items-start">
         {% for contact in site.data.settings.contactos-2 %}
         <h4 class="text-light mt-4 font-weight-bold font-tertiary">{{ contact.nombre }}</h4>
-        <p class="text-light font-tertiary text-justify">{{ contact.mail}}</p>
+        <p class="text-light font-tertiary text-justify">
+          <a class="text-light font-tertiary" href="mailto:{{ contact.mail}}">{{ contact.mail}}</a>
+        </p>
+
         {% endfor %}
       </div>
       <!-- social icon -->

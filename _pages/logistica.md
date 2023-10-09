@@ -1,6 +1,6 @@
 ---
 layout: logistica
-title: Alojamientos, transportes y <br> puntos de interes
+title: Alojamientos, transporte y <br> puntos de interés
 ---
 
 

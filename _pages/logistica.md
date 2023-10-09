@@ -30,7 +30,7 @@ Encontrá las líneas, horarios y recorridos de los colectivos:
 <br>
 
 ### ![Imagen Corazon]({{ site.baseurl }}/assets/images/illustrations/purple_favorite.png) Puntos de interes en la ciudad {#logistica_mapa}
-En el siguiente mapa podés encontrar la ubicación de las actividades del encuentro, ferias, puntos de cuidado, baños químicos y otros puntos de interés.
+En el siguiente mapa podés encontrar la ubicación de los lugares en los que se realizan las actividades del encuentro, ferias, puntos de cuidado, baños químicos y otros puntos de interés.
 
 <div class="iframe-container">
     <iframe src="https://www.google.com/maps/d/embed?mid=1lh4S0k7dHTwZmnI8Sr2cjvtAdxvlLXw&ehbc=2E312F">

@@ -21,6 +21,8 @@ En de octubre de 2022, en Bariloche, un violento operativo de desalojo a la comu
 
 👉🏾 Cese a la persecución y criminalización de la Lof Lafken Winkul Mapu.
 
+También la inmediata libertad de Jessica Bonnefoi Antimil, una joven integrante de la comunidad Lof Lafken Winkul Mapu, quien estuvo detenida en condiciones inhumanas desde el 11 de agosto y ahora cumple prisión domiciliaria.
+
 La indignación colectiva ante las detenciones políticas de las mujeres mapuche, llevó a que el mandato de los dos Encuentros realizados en San Luis, tanto en Octubre como en Noviembre, definiera que la sede del Encuentro 2023 fuera Bariloche, planteando además la unidad del movimiento de mujeres y disidencias.
 
 <br/>

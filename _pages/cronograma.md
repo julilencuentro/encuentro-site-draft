@@ -12,6 +12,6 @@ Descargá el cronograma con las actividades centrales del encuentro.
 
 ### Agenda Cultural
 
-Además, todos los días habrá actividades culturales con participaciones de todo el país.
+Todos los días habrá actividades culturales con participaciones de todo el país.
 
 {% include descarga.html doc='cronograma.pdf' doc_nombre='GRILLA CULTURAL' %}

@@ -1,17 +1,17 @@
 ---
 layout: cronograma
-title: Cronograma
+title: Actividades
 ---
-### Cronograma de actividades 
+### Cronograma oficial 
 
-Durante los días del encuentro las principales actividades serán...
+Descargá el cronograma con las actividades centrales del encuentro.
 
 {% include descarga.html doc='cronograma.pdf' doc_nombre='CRONOGRAMA' %}
 
 <br/>
 
-### Actividades Culturales
+### Agenda Cultural
 
-Todos los dias habrá actividades culturales con participantes de todo el país..
+Además, todos los días habrá actividades culturales con participaciones de todo el país.
 
 {% include descarga.html doc='cronograma.pdf' doc_nombre='GRILLA CULTURAL' %}

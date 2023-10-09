@@ -6,7 +6,7 @@ title: Actividades
 
 Descargá el cronograma con las actividades centrales del encuentro.
 
-{% include descarga.html doc='cronograma.pdf' doc_nombre='CRONOGRAMA' %}
+{% include descarga.html doc='Cronograma.pdf' doc_nombre='CRONOGRAMA' %}
 
 <br/>
 
@@ -14,4 +14,4 @@ Descargá el cronograma con las actividades centrales del encuentro.
 
 Todos los días habrá actividades culturales con participaciones de todo el país.
 
-{% include descarga.html doc='cronograma.pdf' doc_nombre='GRILLA CULTURAL' %}
+{% include descarga.html doc='Grilla_de_cultura.pdf' doc_nombre='GRILLA CULTURAL' %}

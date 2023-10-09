@@ -12,7 +12,13 @@ Nadie imparte conocimientos, por el contrario, cada taller tiene facilitadoras y
 
 Los talleres adoptan la modalidad del consenso para habilitar todas las expresiones, no se vota. Cuando termina el encuentro la comisión organizadora publica las conclusiones de todos los talleres y son entregadas en el siguiente encuentro.
 
-### Mapa de talleres
+
+{% include descarga.html doc_titulo="Listado de Ejes y Talleres" doc='Grilla_de_talleres.pdf' doc_nombre='LISTADO' %}
+
+
+<br/>
+
+### Ubicación
 
 <div class="iframe-container">
 <iframe src="https://www.google.com/maps/d/embed?mid=1zIb80sQoGfT9VvLn6q3mh1t0x0WqKeo&ehbc=2E312F" ></iframe>

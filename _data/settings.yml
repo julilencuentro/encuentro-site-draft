@@ -83,7 +83,7 @@ logistica-sections:
   - {
       titulo: Mapa,
       icon: lugaresdeinteres.png,
-      descripcion: "Hospitales, baños y otros puntos de interés.",
+      descripcion: "Actividades, accesibilidad y otros puntos de interés.",
       button-texto: VER MÁS,
       button-url: /logistica#logistica_mapa,
     }

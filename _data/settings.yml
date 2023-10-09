@@ -141,7 +141,7 @@ varios-sections:
       titulo: Aportes,
       icon: aportes.png,
       descripcion: "Los encuentros son autónomos y autofinanciados. No se aceptan contribuciones que impliquen condicionamientos. La construcción la hacemos entre todas y todes, si querés aportar podes hacerlo directamente a la cuenta de la comisión organizadora. ¡Gracias!",
-      button-url: ,
+      button-url: assets/docs/aportes.pdf,
       button-texto: "VER MÁS",
       activo: , # Add true to select section
     }

@@ -196,12 +196,20 @@ contactos-2:
   
   
 #-------------------------------
-# Prensa (Section and Page)
+# Prensa 
 prensa-titulo: Prensa Colaborativa
 prensa-contenido: Si querés acreditarte para realizar la cobertura periodística colaborativa del 36 encuentro, completá el formulario.  
 prensa-button-texto: FORMULARIO
 prensa-button-url: "https://forms.gle/L9i1YU6BwC93dcKZ7"
 
+#-------------------------------
+# Application 
+app-titulo: App del Encuentro!
+app-contenido: Si tenés un teléfono con Android podés descargar la App y tener a mano el cronograma de actividades y talleres con sus ubicaciones.<br/><br/>También podés ver en tiempo real cómo viajan las expresiones de apoyo que mandás por la app. 
+app-button-1-texto: Descargala
+app-button-1-url: 
+app-button-2-texto: Ver Expresiones
+app-button-2-url: 
 
 
 

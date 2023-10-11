@@ -35,29 +35,6 @@ layout: default
 </section>
 
 
-<!-- /about -->
 {% include quees-pilares-section.html %}
 
-<section class="section-light position-relative">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center mb-4">
-        <h3 class="text-primary text-left">{{ site.data.settings.quees-podcasts-titulo }}</h3>
-        <p class="text-left">{{ site.data.settings.quees-podcasts-descripcion}}</p>
-      </div>
-      {% for podcast in site.data.settings.quees-podcasts %}
-      <div class="col-lg-6 col-md-6 mb-80">
-        <div class="d-flex">
-          <div>
-            <h5 class="text-black font-tertiary">{{podcast.nombre}}</h5>
-            <audio controls>
-              <source src="{{ site.baseurl }}/assets/audio/{{podcast.file}}" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio> 
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</section>
+{% include podcasts-section.html %}

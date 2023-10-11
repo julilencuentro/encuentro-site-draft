@@ -17,3 +17,4 @@ inquietudes que nos atraviesan a diario.  De la misma forma, encontramos espacio
 
 A partir de los encuentros y un recorrido  de  años de historia, conquistamos  leyes, armamos redes y campañas que nos  impulsan en la lucha contra las  
 desigualdades propias de nuestra  sociedad patriarcal. 
+

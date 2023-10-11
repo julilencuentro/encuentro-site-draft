@@ -258,9 +258,9 @@ quees-podcasts:
   - nombre: "Voces Encuentreras N°4"
     file: "N4_VOCES_ENCUENTRERAS.mp3"
 
-quees-conclusiones-titulo: Conclusiones 
-quees-conclusiones-descripcion: Las conclusiones construidas a partir de los talleres de años anteriores
+talleres-conclusiones-titulo: Conclusiones 
+talleres-conclusiones-descripcion: Las conclusiones construidas a partir de los talleres de años anteriores
 
-quees-conclusiones:
+talleres-conclusiones:
     - nombre: "35° Encuentro - San Luis - Territorio Huarpe, Comechingon y Ranquel"
-    - archivo: "Conclusiones_Talleres_35_EPMLTTBINB.pdf"
+      archivo: "Conclusiones_Talleres_35_EPMLTTBINB.pdf"

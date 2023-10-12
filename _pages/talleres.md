@@ -18,7 +18,9 @@ Los talleres adoptan la modalidad del consenso para habilitar todas las expresio
 
 <br/>
 
-{% include descarga-accesible.html doc_titulo="Ubicación" doc='Ubicacion_de_talleres.pdf' doc-accesible='Ubicacion_de_talleres-version_texto_plano.pdf' doc_nombre='UBICACIONES' %}
+### Ubicacion
+Desde pueden descargar los documentos con nombres y direcciones de los distintos talleres. 
+{% include descarga-accesible.html doc='Ubicacion_de_talleres.pdf' doc-accesible='Ubicacion_de_talleres-version_texto_plano.pdf' doc_nombre='UBICACIONES' %}
 <br/>
 <div class="iframe-container">
 <iframe src="https://www.google.com/maps/d/embed?mid=1zIb80sQoGfT9VvLn6q3mh1t0x0WqKeo&ehbc=2E312F" ></iframe>

@@ -19,7 +19,7 @@ Los talleres adoptan la modalidad del consenso para habilitar todas las expresio
 <br/>
 
 ### Ubicacion
-Desde pueden descargar los documentos con nombres y direcciones de los distintos talleres. 
+Descargá los documentos con nombres y direcciones de los distintos talleres. Podés encontrarlos también en texto plano para una lectura accesible.
 {% include descarga-accesible.html doc='Ubicacion_de_talleres.pdf' doc-accesible='Ubicacion_de_talleres-version_texto_plano.pdf' doc_nombre='UBICACIONES' %}
 <br/>
 <div class="iframe-container">

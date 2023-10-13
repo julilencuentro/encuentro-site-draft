@@ -17,4 +17,8 @@ Las acreditaciones y entrega de viandas se realizarán en el Velódromo, el sáb
 
 Todos los días habrá actividades culturales con participaciones de todo el país.
 
-{% include descarga.html doc='Grilla_de_cultura.pdf' doc_nombre='ACTIVIDADES CULTURALES' %}
+{% include descarga.html doc='Grilla_de_cultura.pdf' doc_nombre='GRILLA CULTURA' %}
+
+<br/>
+
+{% include descarga.html doc='Grilla_de_cultura-version_texto_plano.pdf' doc_nombre='GRILLA CULTURA (Texto Plano)' %}

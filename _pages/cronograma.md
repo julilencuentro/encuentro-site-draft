@@ -13,6 +13,10 @@ Las acreditaciones y entrega de viandas se realizarán en el Velódromo, el sáb
 
 <br/>
 
+{% include descarga.html doc='Cronograma-version_texto_plano.pdf' doc_nombre='CRONOGRAMA (Texto Plano)' %}
+
+<br/>
+
 ### Grilla Actividades Culturales
 
 Todos los días habrá actividades culturales con participaciones de todo el país.

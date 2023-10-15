@@ -67,6 +67,13 @@ logistica:
   logistica-titulo: Alojamiento, Transporte e Información útil
 logistica-sections:
   - {
+      titulo: Certificado Asistencia,
+      icon: certificado.png,
+      descripcion: "Descargá el certificado de participación en el Encuentro.",
+      button-texto: DESCARGAR,
+      button-url: assets/docs/certificado_de_asistencia.pdf,
+    }
+  - {
       titulo: Alojamiento,
       icon: alojamiento.png,
       descripcion: "Diversas opciones de alojamiento en la ciudad.",
@@ -79,13 +86,6 @@ logistica-sections:
       descripcion: "Medios de transporte disponibles.<br/><br/>" ,
       button-texto: VER MÁS,
       button-url: /logistica#logistica_transporte,
-    }
-  - {
-      titulo: Mapa,
-      icon: lugaresdeinteres.png,
-      descripcion: "Actividades, accesibilidad y otros puntos de interés.",
-      button-texto: VER MÁS,
-      button-url: /logistica#logistica_mapa,
     }
 
 logistica-alojamientos-privados:

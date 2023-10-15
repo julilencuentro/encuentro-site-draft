@@ -71,7 +71,7 @@ logistica-sections:
       icon: certificado.png,
       descripcion: "Descargá el certificado de participación en el Encuentro.",
       button-texto: DESCARGAR,
-      button-url: assets/docs/certificado_de_asistencia.pdf,
+      button-url: {{site.baseurl}}/assets/docs/certificado_de_asistencia.pdf,
     }
   - {
       titulo: Alojamiento,
